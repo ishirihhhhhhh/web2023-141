@@ -1,7 +1,7 @@
-alert(`Hello,Osamu!`);
+alert(`Hello,Hiroto!`);
 alert(1+1);
 alert(Math.sqrt(1+1));
 alert(math.sqrt(2+3));
-alert(math.sqrt(1/0));
-alert(math.sqrt(0/0));
+alert(1/0);
+alert(0/0);
 
