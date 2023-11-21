@@ -10,7 +10,7 @@ if(cnt　<　11　){
 document.timer.moji.value=str.substr(0,cnt+1);
 }else{
 //すべて表示されたら、空文字に戻す
-ducument.timer.moji.value"";
+ducument.timer.moji.value="";
 }
 }
 function startfnc{
