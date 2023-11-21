@@ -13,6 +13,6 @@ document.timer.moji.value=str.substr(0,cnt+1);
 ducument.timer.moji.value="";
 }
 }
-function startfnc{
+function startfnc(){
 //関数hyoji()を1000ミリ秒間隔で呼び出す
 setInterval("hyoji()",1000);}
