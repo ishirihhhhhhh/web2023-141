@@ -1,4 +1,4 @@
-//function gazo33(){
+function gazo33(){
 //<img src=”src=”image/月.png”　id="wakusei" alt="tuki" class="imagechange3">
 //setTimeout("gazo33()",3000);}
 var img;
