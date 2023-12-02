@@ -2,5 +2,5 @@
 //<img src=”image/太陽.png" alt="gazohen3" class="imagechange3">
 //setTimeout("gazo33()",3000);}
 var img;
-function gazo33(){document.getElementById('img33').src='./image/back_alley_3.jpg'; setTimeout("gazo34()",3000);}
+function gazo33(){document.getElementById('img33').src=”image/月.png”; setTimeout("gazo34()",3000);}
 function gazo34(){document.getElementById('img33').src=”image/太陽.png”;}
