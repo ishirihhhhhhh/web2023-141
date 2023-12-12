@@ -5,7 +5,7 @@ alert('あたり！');
 else if(document.getElementById('answer77'). value == 'ゆめ'){
 alert('あたり！');
 }
-else if{
+else{
 alert('はずれ！');
 }
 }
